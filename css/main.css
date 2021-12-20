@@ -169,6 +169,8 @@ h2 a{
   transition: all 0.5s;
 }
 
+.all_01:hover .img02{transition: all 0.5s;}
+
 .img02{
   width: 100px;
   height: 100px;
@@ -177,7 +179,6 @@ h2 a{
   background: url(../img/pic02.jpg) no-repeat center;
   overflow: hidden;
   background-size: 100%;
-  transition: all 0.5s;
 }
 
 .img02_txt01{
@@ -198,7 +199,6 @@ span{
   background: url(../img/pic03.jpg) no-repeat center;
   overflow: hidden;
   background-size: 105%;
-  transition: all 0.5s;
 }
 
 .img02_txt01{
@@ -214,7 +214,6 @@ span{
   background: url(../img/pic04.jpg) no-repeat center;
   overflow: hidden;
   background-size: 105%;
-  transition: all 0.5s;
 }
 
 .img04_txt01{
