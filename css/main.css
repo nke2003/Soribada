@@ -169,7 +169,7 @@ h2 a{
   transition: all 0.5s;
 }
 
-.all_01:hover .img02{transition: all 0.5s;}
+.img02_wrap:hover .img02{transition: all 0.5s;}
 
 .img02{
   width: 100px;
