@@ -114,7 +114,10 @@ header div{
   position: relative;
 }
 
-h2 a{color: #fff;}
+h2 a{
+  color: #fff;
+  font-size: 20px;
+}
 .menu_all{height: 10px;}
 .menu01{
   position: absolute;
